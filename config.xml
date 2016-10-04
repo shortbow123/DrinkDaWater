@@ -18,5 +18,7 @@
     <author href="http://scratch.mit.edu/users/GizGames" email="GizGames@gmx.com">
         GizGames
     </author>
+        
+        <plugin name="nl.x-services.plugins.insomnia" spec="4.0.1" source="pgb" />
 
 </widget>
